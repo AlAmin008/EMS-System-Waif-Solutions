@@ -11,7 +11,6 @@ EMS Backend/
 - requirements.txt
 - EMSBackend/  [# Django project settings and configurations]
 - employees/   [# Django app for managing employee ]
-- static/      [# Static files]
 
 EMS Frontend/
 - public/       [# Public assets]
